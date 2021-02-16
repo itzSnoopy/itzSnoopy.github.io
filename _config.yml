@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+# Site Settings
+
+title: Snoopy's code cave | Testing grounds
+keywords: github pages, single page apps
+
+description: >
+  Testing grounds for misc stuff.... now trying JavaScript and Html
+
+
+# Exclude from Jekyll processing
+exclude: ["Readme.md", "package.json"]
